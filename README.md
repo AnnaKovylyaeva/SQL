@@ -1,5 +1,5 @@
 # В репозитории находятся запросы в SQL: 
-1. Файл с запросами SQL- SQL_queries.sql
+1. Файл с запросами SQL_queries.sql
 2. Данные, которые использовались:
    users.csv
    user_actions.csv
