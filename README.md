@@ -9,10 +9,12 @@
    * 8 УРОК JOIN: **Lesson_8_ JOIN.sql**
    * 10 УРОК ОКОННЫЕ ФУНКЦИИ: **Lesson_10_Window_function**
 
-3. Данные, которые использовались в папке Data:
+2. Данные, которые использовались в папке Data:
    * users
    * user_actions
    * products
    * orders
    * couriers
    * courier_actions
+
+3. Database schema.pdf - схема базы данных
