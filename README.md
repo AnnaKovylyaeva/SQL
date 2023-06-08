@@ -7,7 +7,7 @@
    * 6 УРОК ГРУППИРОВКА ДАННЫХ: **Lesson_6_Data grouping.sql**
    * 7 УРОК ПОДЗАПРОСЫ: **Lesson_7_Subqueries.sql**
    * 8 УРОК JOIN: **Lesson_8_ JOIN.sql**
-   * 10 УРОК ОКОННЫЕ ФУНКЦИИ: **Lesson_10_Window function**
+   * 10 УРОК ОКОННЫЕ ФУНКЦИИ: **Lesson_10_Window_function**
 
 3. Данные, которые использовались в папке Data:
    * users
