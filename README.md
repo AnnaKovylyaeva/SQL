@@ -1,4 +1,4 @@
-#### В репозитории находятся мои запросы с курса [«СИМУЛЯТОР SQL»](https://lab.karpov.courses/learning/152/),  [Karpov courses](https://karpov.courses/): 
+#### В репозитории находятся мои запросы с курса [«СИМУЛЯТОР SQL»](https://karpov.courses/simulator-sql),  [Karpov courses](https://karpov.courses/): 
 
 1. Папка с запросами SQL_queries.sql:
    * 3 УРОК БАЗОВЫЕ ЗАПРОСЫ SQL: **Lesson_3_Base_queries.sql**
